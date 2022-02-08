@@ -1,0 +1,31 @@
+main {
+  padding: 50px;
+}
+
+main .ressource-card {
+  border-radius: 25px;
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.5);
+          box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+main .ressource-card img {
+  width: inherit;
+}
+
+main .ressource-card .title {
+  font-size: 1.6rem;
+}
+
+main .ressource-card .description {
+  font-size: 1.2rem;
+}
+
+main .ressource-card button {
+  border: none;
+  background-color: #3db43d;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 50px;
+  font-size: 1.2rem;
+}
+/*# sourceMappingURL=styles.css.map */

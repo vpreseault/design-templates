@@ -1,0 +1,25 @@
+main {
+  padding: 50px;
+  .ressource-card {
+    // border: 1px solid grey;
+    border-radius: 25px;
+    box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.5);
+    img {
+      width: inherit;
+    }
+    .title {
+      font-size: 1.6rem;
+    }
+    .description {
+      font-size: 1.2rem;
+    }
+    button {
+      border: none;
+      background-color: rgb(61, 180, 61);
+      color: white;
+      padding: 5px 15px;
+      border-radius: 50px;
+      font-size: 1.2rem;
+    }
+  }
+}
